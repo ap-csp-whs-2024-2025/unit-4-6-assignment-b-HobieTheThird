@@ -11,6 +11,22 @@
 #include <string>    // std::string, std::getline
 #include <vector>    // std::vector
 
+//#1
+void isPrime(int num)
+{
+    int a
+    std::cout << "pls input number ";
+    std::cin >> a>> std::endl;
+    if (num<0)
+    {
+    return false;
+    }
+    else if (num % a = 0)
+    {
+    
+    }
+}
+
 int main()
 {
     // Complete your homework here
